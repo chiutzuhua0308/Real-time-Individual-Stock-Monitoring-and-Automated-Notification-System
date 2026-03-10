@@ -1,5 +1,6 @@
 # Real-time-Individual-Stock-Monitoring-and-Automated-Notification-System
 An automated RSS tool consolidating multi-source financial news for real-time stock tracking
+
 📖 專案簡介
 本專案是一套基於 RSS 技術 的自動化個股新聞追蹤工具。開發初衷是為了解決投資者在多個財經媒體間切換的低效問題，並確保使用者能第一時間掌握影響股價的關鍵資訊（Market-moving Information）。
 
