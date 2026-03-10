@@ -3,7 +3,7 @@ An automated RSS tool consolidating multi-source financial news for real-time st
 📖 專案簡介
 本專案是一套基於 RSS 技術 的自動化個股新聞追蹤工具。開發初衷是為了解決投資者在多個財經媒體間切換的低效問題，並確保使用者能第一時間掌握影響股價的關鍵資訊（Market-moving Information）。
 
-本系統曾應用於 證券投資競賽 並協助開發者榮獲 第二名 佳績，相關技術理念亦投稿至 MISNC 國際研討會。
+本系統曾應用於 證券投資競賽 並協助開發者榮獲 第二名 佳績。
 
 ✨ 核心功能
 多來源整合：利用 Google News RSS 彙整各主流財經媒體，解決資訊碎片化問題。
